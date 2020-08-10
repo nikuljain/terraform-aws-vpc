@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "terminal.integrated.fontFamily": "Inconsolata, Consolas, 'Courier New', monospace",
+    "terminal.integrated.copyOnSelection": true
+}

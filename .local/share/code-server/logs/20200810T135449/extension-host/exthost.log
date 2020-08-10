@@ -1,0 +1,140 @@
+[2020-08-10 13:56:50.226] [exthost] [info] extension host started
+[2020-08-10 13:56:51.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 13:56:51.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 13:56:51.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 13:56:51.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 13:56:51.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 13:56:51.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 13:56:51.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 13:56:51.937] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 13:56:51.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 13:56:51.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 13:56:51.946] [exthost] [info] eager extensions activated
+[2020-08-10 13:57:16.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-08-10 13:57:16.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/configuration-editing/dist/extension
+[2020-08-10 13:57:16.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-08-10 13:57:16.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/extension-editing/dist/extension
+[2020-08-10 13:57:16.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-08-10 13:57:16.414] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/json-language-features/client/dist/jsonMain
+[2020-08-10 13:57:16.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-08-10 13:57:16.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/npm/dist/main
+[2020-08-10 13:59:19.961] [exthost] [info] extension host started
+[2020-08-10 13:59:20.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 13:59:20.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 13:59:20.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 13:59:20.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 13:59:20.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 13:59:20.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 13:59:20.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 13:59:20.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 13:59:20.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 13:59:20.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 13:59:20.946] [exthost] [info] eager extensions activated
+[2020-08-10 14:09:25.146] [exthost] [info] extension host started
+[2020-08-10 14:09:25.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 14:09:25.742] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 14:09:25.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 14:09:25.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 14:09:25.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 14:09:25.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 14:09:25.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 14:09:25.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 14:09:25.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 14:09:25.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 14:09:25.821] [exthost] [info] eager extensions activated
+[2020-08-10 14:20:51.180] [exthost] [info] extension host started
+[2020-08-10 14:20:52.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 14:20:52.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 14:20:52.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 14:20:52.291] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 14:20:52.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 14:20:52.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 14:20:52.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 14:20:52.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 14:20:52.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 14:20:52.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 14:20:52.367] [exthost] [info] eager extensions activated
+[2020-08-10 14:42:54.217] [exthost] [info] extension host started
+[2020-08-10 14:42:54.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 14:42:54.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 14:42:54.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 14:42:54.822] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 14:42:54.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 14:42:54.846] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 14:42:54.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 14:42:54.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 14:42:54.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 14:42:54.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 14:42:54.897] [exthost] [info] eager extensions activated
+[2020-08-10 14:59:05.661] [exthost] [info] extension host started
+[2020-08-10 14:59:06.507] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 14:59:06.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 14:59:06.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 14:59:06.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 14:59:06.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 14:59:06.536] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 14:59:06.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 14:59:06.580] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 14:59:06.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 14:59:06.584] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 14:59:06.591] [exthost] [info] eager extensions activated
+[2020-08-10 15:30:42.286] [exthost] [info] extension host started
+[2020-08-10 15:30:43.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 15:30:43.382] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 15:30:43.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 15:30:43.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 15:30:43.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 15:30:43.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 15:30:43.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 15:30:43.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 15:30:43.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 15:30:43.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 15:30:43.474] [exthost] [info] eager extensions activated
+[2020-08-10 15:42:21.236] [exthost] [info] extension host started
+[2020-08-10 15:42:21.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 15:42:21.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 15:42:21.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 15:42:21.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 15:42:21.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 15:42:21.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 15:42:21.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 15:42:21.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 15:42:21.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 15:42:21.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 15:42:21.831] [exthost] [info] eager extensions activated
+[2020-08-10 15:58:01.544] [exthost] [info] extension host started
+[2020-08-10 15:58:02.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 15:58:02.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 15:58:02.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 15:58:02.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 15:58:02.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 15:58:02.111] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 15:58:02.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 15:58:02.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 15:58:02.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 15:58:02.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 15:58:02.168] [exthost] [info] eager extensions activated
+[2020-08-10 16:03:57.228] [exthost] [info] extension host started
+[2020-08-10 16:03:58.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 16:03:58.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 16:03:58.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 16:03:58.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 16:03:58.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 16:03:58.042] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 16:03:58.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 16:03:58.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 16:03:58.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 16:03:58.096] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 16:03:58.108] [exthost] [info] eager extensions activated
+[2020-08-10 16:52:19.392] [exthost] [info] extension host started
+[2020-08-10 16:52:20.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-10 16:52:20.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2020-08-10 16:52:20.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-10 16:52:20.744] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/emmet/dist/extension
+[2020-08-10 16:52:20.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-10 16:52:20.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main
+[2020-08-10 16:52:20.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-10 16:52:20.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2020-08-10 16:52:20.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-10 16:52:20.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/search-result/dist/extension.js
+[2020-08-10 16:52:20.828] [exthost] [info] eager extensions activated

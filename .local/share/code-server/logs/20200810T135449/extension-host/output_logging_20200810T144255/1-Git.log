@@ -1,0 +1,94 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /root/hashicat-aws
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/root/hashicat-aws/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/root/hashicat-aws/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1329:11)
+	at Object.t.watch (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:591308)
+	at E.updateTransientWatchers (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:123004)
+	at l.fire (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:141789)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :exercises/remote_backend.tf
+> git show HEAD:remote_backend.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/root/hashicat-aws/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/root/hashicat-aws/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1329:11)
+	at Object.t.watch (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:591308)
+	at E.updateTransientWatchers (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:123004)
+	at l.fire (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:141789)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+> git config --get commit.template
+> git show HEAD:remote_backend.tf
+> git show :exercises/remote_backend.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/root/hashicat-aws/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/root/hashicat-aws/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1329:11)
+	at Object.t.watch (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:591308)
+	at E.updateTransientWatchers (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:123004)
+	at l.fire (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/drone/src/build/code-server2.1698-vsc1.41.1-linux-x86_64-built/extensions/git/dist/main.js:1:141789)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

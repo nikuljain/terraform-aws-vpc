@@ -1,0 +1,39 @@
+2020-07-21 20:57:40,927 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2020-07-21 20:57:40,934 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances']
+2020-07-21 20:57:40,953 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances', 'add_metadata']
+2020-07-21 20:57:40,956 DEBUG    root            Running [gcloud.compute.instances.add-metadata] with arguments: [--metadata: "OrderedDict([('startup-script-status', 'done')])", --zone: "us-central1-a", INSTANCE_NAME: "packer-5f175660-976a-48fe-bc02-f848598e7157"]
+2020-07-21 20:57:43,011 DEBUG    root            Operations to inspect: [<Operation
+ id: 8010556060135516201
+ insertTime: '2020-07-21T13:57:42.873-07:00'
+ kind: 'compute#operation'
+ name: 'operation-1595365062350-5aaf9dfd4174e-3ac38f49-1c0d944c'
+ operationType: 'setMetadata'
+ progress: 0
+ selfLink: 'https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a/operations/operation-1595365062350-5aaf9dfd4174e-3ac38f49-1c0d944c'
+ startTime: '2020-07-21T13:57:42.887-07:00'
+ status: StatusValueValuesEnum(RUNNING, 2)
+ targetId: 7167222356639410315
+ targetLink: 'https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a/instances/packer-5f175660-976a-48fe-bc02-f848598e7157'
+ user: '914847999491-compute@developer.gserviceaccount.com'
+ warnings: []
+ zone: 'https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a'>]
+2020-07-21 20:57:45,838 DEBUG    root            Operations to inspect: [<Operation
+ endTime: '2020-07-21T13:57:45.661-07:00'
+ id: 8010556060135516201
+ insertTime: '2020-07-21T13:57:42.873-07:00'
+ kind: 'compute#operation'
+ name: 'operation-1595365062350-5aaf9dfd4174e-3ac38f49-1c0d944c'
+ operationType: 'setMetadata'
+ progress: 100
+ selfLink: 'https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a/operations/operation-1595365062350-5aaf9dfd4174e-3ac38f49-1c0d944c'
+ startTime: '2020-07-21T13:57:42.887-07:00'
+ status: StatusValueValuesEnum(DONE, 0)
+ targetId: 7167222356639410315
+ targetLink: 'https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a/instances/packer-5f175660-976a-48fe-bc02-f848598e7157'
+ user: '914847999491-compute@developer.gserviceaccount.com'
+ warnings: []
+ zone: 'https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a'>]
+2020-07-21 20:57:45,838 INFO     ___FILE_ONLY___ Updated [https://www.googleapis.com/compute/v1/projects/instruqt-hashicorp/zones/us-central1-a/instances/packer-5f175660-976a-48fe-bc02-f848598e7157].
+
+2020-07-21 20:57:46,030 INFO     root            Display format: "none"
+2020-07-21 20:57:46,036 DEBUG    root            SDK update checks are disabled.
